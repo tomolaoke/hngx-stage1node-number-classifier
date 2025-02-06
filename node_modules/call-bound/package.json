@@ -52,6 +52,7 @@
 	"homepage": "https://github.com/ljharb/call-bound#readme",
 	"dependencies": {
 		"call-bind-apply-helpers": "^1.0.1",
+		"call-bound": "file:",
 		"get-intrinsic": "^1.2.6"
 	},
 	"devDependencies": {
