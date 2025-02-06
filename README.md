@@ -1,6 +1,9 @@
-# Number Classification API
+# Number Classification API (LIVE)
+[Home](https://hngx-stage1node-number-classifier.onrender.com)
+
 
 Hi, I am Tomola Oke, TM.
+
 Welcome to My Number Classification API!
 
 To get interesting mathematical properties about a number, use the following endpoint:
@@ -8,6 +11,7 @@ To get interesting mathematical properties about a number, use the following end
 /api/classify-number?number=[YOUR_NUMBER]
 
 To get interesting mathematical properties about a number, click the button below and change the number at the end of the link:
+
 [Get Numbers Classification](https://hngx-stage1node-number-classifier.onrender.com/api/classify-number?number=371)
 
 Simply change the number at the end of the link to any valid integer.
