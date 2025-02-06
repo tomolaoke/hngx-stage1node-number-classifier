@@ -1,0 +1,17 @@
+{
+  "name": "classify-number-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "classify-number-api": "file:",
+    "express": "^4.21.2"
+  }
+}
